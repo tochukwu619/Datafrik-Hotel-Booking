@@ -23,7 +23,7 @@ Using Microsoft Excel, the data was cleaned by ensuring that there were no dupli
 
 ### EXPLORATORY DATA ANALYSIS
 
-A full exploratory data analysis was done using a package in python called, y-data_profiling. This report can be seen here - [Full Report]()
+A full exploratory data analysis was done using a package in python called, y-data_profiling. This report can be seen here - [Full Report](https://github.com/tochukwu619/Datafrik-Hotel-Booking/blob/main/hotel_bookings.html)
 
 
 ### DATA ANALYSIS
